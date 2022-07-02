@@ -4,7 +4,7 @@
 # How to use this source code
 
 1 - Clone repo
-git clone https://github.com/divanov11/mychat
+git clone https://github.com/Sandy93056/mychat/
 
 2 - Install requirements
 cd mychat
